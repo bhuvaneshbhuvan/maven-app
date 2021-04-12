@@ -23,7 +23,7 @@ pipeline {
                    nexusUrl: '18.222.76.76:8081', 
                    nexusVersion: 'nexus3', 
                    protocol: 'http', 
-                   repository: 'http://18.222.76.76:8081/repository/mavenapp-release', 
+                   repository: 'mavenapp-release', 
                    version: '1.5.0'
                 
                 
